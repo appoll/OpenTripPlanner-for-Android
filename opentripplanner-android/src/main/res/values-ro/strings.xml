@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
+
  Copyright 2011-2013 Marcy Gordon, University of South Florida
  
  Licensed under the Apache License, Version 2.0 (the "License") name="dir you may not
@@ -20,7 +21,7 @@
 
         <!-- Start/End text boxes -->
 
-            <!-- Text box contents -->
+            <!--Text box contents-->
 
                 <!-- When routing from my location -->
                 <string name="text_box_my_location">Locația mea</string>
